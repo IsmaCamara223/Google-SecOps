@@ -6,8 +6,9 @@ This project was my IT Capstone project in collaboration with Cybriant, a compan
 
 ### Project Objectives
 
-
-This project objectives were to: 
+- Develop a threat hunting
+- Integra
+- Implement
 
 -Develop a threat hunting IDS sensor capable of analyzing traffic, performing vulnerability scans, and aggregating logs.
 -Integrate the OwlH project into Google SecOps, including a parser development for translating OwlH and OpenVAS outputs into Google’s Unified Data Model (UDM).
