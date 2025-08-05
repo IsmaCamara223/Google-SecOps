@@ -14,14 +14,14 @@ This project objectives were to:
 -Implement a management system for OpenVAS to automate vulnerability scanning across infrastructure devices.
 -Enhance log aggregation capabilities and develop a shipping function to streamline data management within Google SecOps.
 
-### Skills and tools learned 
-
+### Skills and tools learned
 -Project Managment and team leading.
 -Research and autonomous work.
 -Effective communication
--Docker
 -OpenVAS
 -YARA-L
 -Google SecOps
 -OwlH IDS
 -Compliance framework
+-
+
